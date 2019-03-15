@@ -1,0 +1,20 @@
+lastAccountName: wonder5
+timestamps:
+  login: 1489794619463
+  lastteleport: 1489691134594
+  logout: 1489794651137
+ipAddress: 68.175.153.92
+lastlocation:
+  world: lobby
+  x: -445.7816037517213
+  y: 4.0
+  z: -712.4157171239525
+  yaw: -320.36853
+  pitch: 9.608954
+logoutlocation:
+  world: plots
+  x: -89.06512160780575
+  y: 65.0
+  z: 49.3660713771405
+  yaw: 44.23708
+  pitch: 14.497731

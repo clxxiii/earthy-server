@@ -1,0 +1,8 @@
+# 
+#  					BukkitDev Help page : http://dev.bukkit.org/server-mods/mycommand/    					#
+block:
+  BuildingWorld:
+    x561y5z-380:
+      launchby: player
+      command:
+      - /rng

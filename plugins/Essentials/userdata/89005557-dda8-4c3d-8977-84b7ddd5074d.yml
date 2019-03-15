@@ -1,0 +1,33 @@
+money: '0.0'
+lastAccountName: iiLucas
+timestamps:
+  login: 1494799447335
+  logout: 1494801019738
+  lastteleport: 1494799924798
+  jail: 0
+ipAddress: 108.190.250.228
+lastlocation:
+  world: Skyblock
+  x: 257.1904980922641
+  y: 151.96192408821366
+  z: -11.549619631064612
+  yaw: 175.81429
+  pitch: 52.533997
+logoutlocation:
+  world: Skyblock
+  x: 259.69999998807907
+  y: 150.9375
+  z: -5.243004723495254
+  yaw: -186.13646
+  pitch: 21.600056
+jailed: false
+afk: false
+nickname: §bi§9i§bL§9u§bc§9a§bs
+godmode: false
+powertools:
+  '352':
+  - summon wolf
+  '407':
+  - summon wolf
+  '276':
+  - tp iiL min

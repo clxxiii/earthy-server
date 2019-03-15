@@ -1,0 +1,102 @@
+configuration_version: post_flattening
+worlds:
+  plots:
+    plot:
+      height: 62
+      biome: FOREST
+      size: 42
+      filling: stone
+      auto_merge: false
+      bedrock: true
+      create_signs: true
+      floor: grass_block
+    wall:
+      filling: stone
+      block_claimed: sandstone_slab
+      height: 62
+      block: stone_slab
+    misc_spawn_unowned: false
+    road:
+      block: quartz_block
+      height: 62
+      width: 7
+    home:
+      nonmembers: side
+      default: side
+    schematic:
+      specify_on_claim: false
+      on_claim: false
+      file: 'null'
+    economy:
+      prices:
+        merge: 100
+        sell: 100
+        claim: 100
+      use: false
+    chat:
+      enabled: false
+    limits:
+      max-members: 128
+    world:
+      max_height: 256
+      gamemode: creative
+      min_height: 1
+      border: false
+    event:
+      spawn:
+        egg: false
+        breeding: false
+        custom: true
+    natural_mob_spawning: false
+    mob_spawner_spawning: false
+    flags: {}
+  world:
+    plot:
+      height: 62
+      biome: FOREST
+      size: 42
+      filling: stone
+      auto_merge: false
+      bedrock: true
+      create_signs: true
+      floor: grass_block
+    wall:
+      filling: stone
+      block_claimed: sandstone_slab
+      height: 62
+      block: stone_slab
+    misc_spawn_unowned: false
+    road:
+      block: quartz_block
+      height: 62
+      width: 7
+    home:
+      nonmembers: side
+      default: side
+    schematic:
+      specify_on_claim: false
+      on_claim: false
+      file: 'null'
+    economy:
+      prices:
+        merge: 100
+        sell: 100
+        claim: 100
+      use: false
+    chat:
+      enabled: false
+    limits:
+      max-members: 128
+    world:
+      max_height: 256
+      gamemode: creative
+      min_height: 1
+      border: false
+    event:
+      spawn:
+        egg: false
+        breeding: false
+        custom: true
+    natural_mob_spawning: false
+    mob_spawner_spawning: false
+    flags: {}

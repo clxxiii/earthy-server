@@ -1,0 +1,23 @@
+lastAccountName: catcat256
+timestamps:
+  login: 1510968941810
+  lastteleport: 1488147900143
+  logout: 1510968956950
+ipAddress: 24.59.57.168
+lastlocation:
+  world: lobby
+  x: 7.3724363472756576
+  y: 4.0
+  z: 56.418758991484964
+  yaw: -161.29099
+  pitch: 26.549997
+logoutlocation:
+  world: lobby
+  x: 1153.3919896780385
+  y: 4.0
+  z: -31.300000011920915
+  yaw: -126.13384
+  pitch: 27.749992
+nickname: §8Kitty_Cat
+godmode: true
+money: '0.0'

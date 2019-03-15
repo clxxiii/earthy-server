@@ -1,0 +1,23 @@
+lastAccountName: Minecraft_Rolson
+timestamps:
+  login: 1493581037013
+  lastteleport: 1493161822791
+  logout: 1493582792205
+ipAddress: 73.190.21.122
+lastlocation:
+  world: BuildingWorld
+  x: 192.69999998807907
+  y: 4.0
+  z: -241.8462752904693
+  yaw: 105.635895
+  pitch: 6.899999
+logoutlocation:
+  world: lobby
+  x: 1139.300000011921
+  y: 4.0
+  z: -128.19476883802253
+  yaw: 317.2495
+  pitch: 13.799988
+nickname: Minecraft_Rolson
+money: '0.0'
+afk: false

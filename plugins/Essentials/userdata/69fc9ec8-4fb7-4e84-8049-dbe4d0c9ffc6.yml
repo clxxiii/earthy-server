@@ -1,0 +1,42 @@
+powertools:
+  '279':
+  - sharpness 10
+  '12':
+  - lighting
+timestamps:
+  logout: 1552269145233
+  lastteleport: 1514849878421
+  login: 1552269886243
+  kits:
+    ope: 1480459328828
+  jail: 0
+godmode: true
+lastlocation:
+  world: lobby_nether
+  x: -18.355906135846435
+  y: 80.0
+  z: 258.88825523665264
+  yaw: 78.970825
+  pitch: 13.800256
+lastAccountName: Aoqqs
+ipAddress: 71.115.211.87
+logoutlocation:
+  world: Help?
+  x: 212.10252077586173
+  y: 4.0
+  z: -49.02055839852641
+  yaw: 198.87004
+  pitch: 19.63063
+afk: false
+money: '0.0'
+powertoolsenabled: true
+jailed: false
+homes:
+  home:
+    world: opisland
+    x: 399.9032531857613
+    y: 91.0
+    z: -157.30150930786004
+    yaw: 274.3117
+    pitch: 23.699844
+nickname: ducky

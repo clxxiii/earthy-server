@@ -1,0 +1,20 @@
+lastAccountName: Rhinotec
+timestamps:
+  login: 1489619108493
+  lastteleport: 1489619116162
+  logout: 1489619127398
+ipAddress: 174.58.217.123
+lastlocation:
+  world: lobby
+  x: -449.0423533162044
+  y: 7.579698543676118
+  z: -683.4882696984108
+  yaw: 1.0353144
+  pitch: 1.2495173
+logoutlocation:
+  world: buildswap
+  x: -632.975376549262
+  y: 5.783507174531084
+  z: -297.0909824002731
+  yaw: -14.110514
+  pitch: 16.036943

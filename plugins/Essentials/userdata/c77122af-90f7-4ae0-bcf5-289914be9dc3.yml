@@ -1,0 +1,34 @@
+lastAccountName: Pantherwizard213
+timestamps:
+  login: 1495932702771
+  lastteleport: 1495933354022
+  logout: 1495933370336
+  jail: 0
+ipAddress: 67.241.71.115
+lastlocation:
+  world: redstonelandia
+  x: 176.63455078599227
+  y: 64.23152379758702
+  z: 282.6014065517376
+  yaw: -247.34982
+  pitch: 39.3
+logoutlocation:
+  world: lobby
+  x: 1153.4378715136486
+  y: 4.0
+  z: -150.51718237466375
+  yaw: -357.3003
+  pitch: 17.25005
+jailed: false
+nickname: §dPanther§5W§1i§5z§1a§5r§1d
+homes:
+  home:
+    world: BuildingWorld
+    x: 807.5336742482392
+    y: 4.0
+    z: -218.6685090441944
+    yaw: 84.12892
+    pitch: 14.9178295
+money: '0.0'
+godmode: false
+afk: false

@@ -1,0 +1,59 @@
+timestamps:
+  kits:
+    firework: 1484347242590
+    color: 1515027346638
+    ope: 1479674656332
+    dtools: 1481464167617
+    redstone: 1484347286462
+  lastteleport: 1552432845066
+  logout: 1552356033634
+  login: 1552432827665
+  jail: 0
+lastlocation:
+  world: plots
+  x: 1149.913996328115
+  y: 6.532872282787757
+  z: -186.86257411197434
+  yaw: -75.75363
+  pitch: -7.95029
+homes:
+  home:
+    world: BuildingWorld
+    x: 734.7258379243311
+    y: 13.0
+    z: -382.4104893761435
+    yaw: 269.0691
+    pitch: 10.05005
+godmode: true
+lastAccountName: clxxiii
+ipAddress: 69.201.32.44
+logoutlocation:
+  world: Tntwarz
+  x: -1374.6165483409668
+  y: 13.736511163928082
+  z: 1327.495802546073
+  yaw: -74.54901
+  pitch: 1.9499631
+afk: false
+money: '10000000000000'
+socialspy: false
+unlimited:
+- 3
+teleportenabled: true
+powertools:
+  '398':
+  - spawnmob pig
+  '269':
+  - LIGHTNING
+  '272':
+  - lagg clear
+  '309':
+  - lightning
+  '369':
+  - /pos1
+  '383':
+  - spawnmob creeper
+  '260':
+  - fireball
+jailed: false
+powertoolsenabled: false

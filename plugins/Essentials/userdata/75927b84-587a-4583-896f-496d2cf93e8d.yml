@@ -1,0 +1,26 @@
+lastAccountName: PrinterPaper101
+timestamps:
+  login: 1497641302773
+  logout: 1497644028671
+  lastteleport: 1496589646686
+  jail: 0
+ipAddress: 68.175.151.67
+logoutlocation:
+  world: lobby
+  x: 15.515173372330997
+  y: 20.430469980141776
+  z: 534.3083533440517
+  yaw: -0.20253998
+  pitch: 39.686413
+lastlocation:
+  world: opisland
+  x: -28.141163203042506
+  y: 176.0
+  z: 239.0223995507206
+  yaw: -103.899376
+  pitch: 29.711689
+nickname: Printer§0Paper§7101
+afk: false
+money: '0.0'
+jailed: false
+godmode: false

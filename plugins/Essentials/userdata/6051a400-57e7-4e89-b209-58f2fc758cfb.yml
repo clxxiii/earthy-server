@@ -1,0 +1,22 @@
+lastAccountName: momstarrycave
+timestamps:
+  login: 1501352609454
+  lastteleport: 1492381756607
+  logout: 1501352822975
+ipAddress: 67.249.137.44
+lastlocation:
+  world: lobby
+  x: 1167.9877503377527
+  y: 4.0
+  z: -140.69999998807907
+  yaw: 268.37335
+  pitch: 28.446823
+afk: false
+logoutlocation:
+  world: redstonelandia
+  x: 98.73851755730553
+  y: 50.0
+  z: 300.5056346891467
+  yaw: 162.31714
+  pitch: 9.149868
+money: '0.0'

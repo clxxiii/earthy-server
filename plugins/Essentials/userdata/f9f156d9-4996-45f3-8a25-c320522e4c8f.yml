@@ -1,0 +1,22 @@
+lastAccountName: Gorbag_the_Cube
+timestamps:
+  login: 1484532173433
+  jail: 0
+  logout: 1484532722148
+  lastteleport: 1484532250062
+ipAddress: 108.176.247.203
+lastlocation:
+  world: lobby
+  x: -447.3121893270529
+  y: 3.0
+  z: -708.5411113103218
+  yaw: -158.18726
+  pitch: 77.09999
+jailed: false
+logoutlocation:
+  world: Tntwarz
+  x: -1430.905951841724
+  y: 4.0
+  z: 1251.1190333000966
+  yaw: 258.00693
+  pitch: 31.49998

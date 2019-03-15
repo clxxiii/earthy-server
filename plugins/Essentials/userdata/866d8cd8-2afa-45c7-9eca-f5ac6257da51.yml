@@ -1,0 +1,43 @@
+lastAccountName: InfinitiveBow111
+timestamps:
+  login: 1497730640297
+  lastteleport: 1497729634586
+  logout: 1497731770649
+  jail: 0
+ipAddress: 68.175.148.121
+lastlocation:
+  world: lobby
+  x: 5.306246073450893
+  y: 4.0
+  z: 70.37358083110232
+  yaw: -50.849983
+  pitch: 79.35
+logoutlocation:
+  world: lobby
+  x: 28.177778792889526
+  y: 185.03866971712617
+  z: 42.15543911157288
+  yaw: 351.89688
+  pitch: 78.44996
+afk: false
+godmode: false
+jailed: false
+powertools:
+  '1':
+  - speed 10
+  '399':
+  - speed 10
+  '261':
+  - shock
+  '262':
+  - speed 1
+money: '0.0'
+nickname: NaughtySecondGrader
+homes:
+  home:
+    world: lobby
+    x: 26.5
+    y: 164.0
+    z: 54.5
+    yaw: 0.0
+    pitch: 0.0

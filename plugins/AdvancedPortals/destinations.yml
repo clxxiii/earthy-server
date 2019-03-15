@@ -1,0 +1,41 @@
+
+#  ExampleDestination:
+#    world: it will be the world name
+#    pos:
+#      X:
+#      Y:
+#      Z:
+
+  plots:
+    world: plots
+    pos:
+      X: 0.5
+      Y: 63
+      Z: 196.5
+
+  hungerlob:
+    world: Hungerlob
+    pos:
+      X: -249.23410328443958
+      Y: 85.0
+      Z: 652.9416390781182
+
+  lobby:
+    world: lobby
+    pos:
+      X: 1152.3914589740891
+      Y: 5.0
+      Z: -148.61882868162337
+
+  redstonelandia:
+    world: redstonelandia
+    pos:
+      X: 181.5
+      Y: 65.0
+      Z: 272.5
+  buildswap:
+    world: buildswap
+    pos:
+      X: -655.5
+      Y: 4
+      Z: -319.5

@@ -1,0 +1,6 @@
+entities:
+  '1':
+    customname: '&aMyCmd &eNPC 1'
+    loc: plots;-137.0;65.0;66.0;0;0
+    commands: []
+    glowing: true

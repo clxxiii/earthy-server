@@ -1,0 +1,34 @@
+lastAccountName: MC_Hammy
+timestamps:
+  login: 1511455295338
+  jail: 0
+  logout: 1511455452025
+  lastteleport: 1493586993444
+ipAddress: 107.223.160.209
+lastlocation:
+  world: lobby
+  x: 1160.089639209588
+  y: 4.0
+  z: -140.9204951534611
+  yaw: 269.1421
+  pitch: 7.32003
+jailed: false
+logoutlocation:
+  world: BuildingWorld
+  x: 544.6694495479602
+  y: 1.0
+  z: -262.69999998807907
+  yaw: -198.99257
+  pitch: 71.48665
+nickname: §b§lSharky
+powertools:
+  '277':
+  - setblock ~ ~ ~ water
+  '256':
+  - setblock ~ ~ ~ lava
+  '359':
+  - setblock ~ ~ ~ vex
+money: '0.0'
+godmode: false
+unlimited:
+- 332

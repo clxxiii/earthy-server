@@ -1,0 +1,58 @@
+lastAccountName: starrycave
+timestamps:
+  login: 1552346362612
+  lastteleport: 1552347076402
+  kits:
+    firework: 1484347232418
+    color: 1484347258140
+    ope: 1484347146194
+    dtools: 1484347284612
+    redstone: 1484347278862
+  logout: 1552347359664
+  jail: 0
+  mute: 0
+ipAddress: 67.249.137.44
+lastlocation:
+  world: bedwars
+  x: 535.7725005675933
+  y: 19.48800649130715
+  z: 555.2945604801994
+  yaw: -72.79549
+  pitch: 18.296013
+money: '10000000000000'
+godmode: false
+logoutlocation:
+  world: bedwars
+  x: 620.3781477799242
+  y: 7.243375881302804
+  z: 537.9388627257065
+  yaw: -265.57404
+  pitch: 36.480938
+afk: false
+jailed: false
+homes:
+  home:
+    world: opisland
+    x: 82.00703957941265
+    y: 172.0
+    z: 223.6245381824933
+    yaw: 0.3708496
+    pitch: 3.950919
+muted: false
+powertools:
+  '38':
+  - tellraw @a {"text":"its the morning buzz...","color":"red"}
+  '443':
+  - replaceitem entity @a[r=3] slot.armor.chest elytra
+  '399':
+  - lightning
+  '137':
+  - tnt
+  '30':
+  - speed 1
+  '383':
+  - lightning
+  '165':
+  - nuke
+nickname: §cstarrycave
+teleportenabled: true

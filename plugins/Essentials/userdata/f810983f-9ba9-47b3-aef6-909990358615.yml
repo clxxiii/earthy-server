@@ -1,0 +1,22 @@
+lastAccountName: TheLemonFilms
+timestamps:
+  login: 1490649637057
+  lastteleport: 1490649685928
+  logout: 1490650403115
+ipAddress: 209.150.231.10
+nickname: §eThe§aLemon§fFilms
+lastlocation:
+  world: BuildingWorld
+  x: 722.7124956723964
+  y: 6.5
+  z: -418.3178969632731
+  yaw: -63.26091
+  pitch: 15.317284
+money: '12'
+logoutlocation:
+  world: BuildingWorld
+  x: 598.9778537667747
+  y: 19.5
+  z: -425.69999998807907
+  yaw: -227.40259
+  pitch: 27.941284

@@ -1,0 +1,32 @@
+timestamps:
+  lastteleport: 1491678272707
+  logout: 1499653867814
+  login: 1499653217471
+lastlocation:
+  world: Speedrun
+  x: 121.1193935720396
+  y: 56.0
+  z: 817.3694127269141
+  yaw: -3.5057204
+  pitch: 14.725481
+godmode: false
+afk: false
+logoutlocation:
+  world: Speedrun
+  x: 116.13152059077413
+  y: 25.0
+  z: 5275.066175277931
+  yaw: -356.53214
+  pitch: 10.354776
+lastAccountName: Agentx49
+ipAddress: 173.35.148.215
+money: '0.0'
+nickname: §b§lAgent§0X§c§l49
+homes:
+  home:
+    world: opisland
+    x: 32.6304159907488
+    y: 154.0
+    z: 162.4031555728419
+    yaw: -295.79602
+    pitch: 88.8

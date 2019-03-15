@@ -1,0 +1,24 @@
+lastAccountName: Orantanium
+timestamps:
+  login: 1515028933264
+  lastteleport: 1515029350963
+  logout: 1515031279856
+  kits:
+    color: 1515022073741
+ipAddress: 68.42.177.75
+lastlocation:
+  world: BuildingWorld
+  x: 154.36019502024496
+  y: 4.0
+  z: -689.8261593498354
+  yaw: 349.28723
+  pitch: 20.399836
+logoutlocation:
+  world: BuildingWorld
+  x: 232.5
+  y: 4.0
+  z: -629.5
+  yaw: -179.163
+  pitch: 75.44978
+godmode: false
+afk: false

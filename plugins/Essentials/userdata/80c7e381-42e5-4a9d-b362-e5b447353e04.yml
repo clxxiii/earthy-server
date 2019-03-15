@@ -1,0 +1,32 @@
+lastAccountName: Earthythegamer
+timestamps:
+  login: 1552354861935
+  lastteleport: 1552359412669
+  logout: 1552359744080
+  jail: 0
+  kits:
+    firework: 1480882121627
+    color: 1485662255884
+  mute: 0
+ipAddress: 104.1.193.69
+lastlocation:
+  world: redstonelandia
+  x: 109.37534878507525
+  y: 119.03115926305954
+  z: 519.8134769838802
+  yaw: -247.39655
+  pitch: 13.349815
+logoutlocation:
+  world: redstonelandia
+  x: 97.73284285766398
+  y: 98.9930521031054
+  z: 548.2906477355375
+  yaw: -247.39655
+  pitch: 13.349815
+afk: false
+jailed: false
+godmode: true
+money: '0.0'
+muted: false
+teleportenabled: true
+nickname: Earthy
