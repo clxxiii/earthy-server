@@ -6,13 +6,6 @@ jails:
     z: 401.713036125776
     yaw: -358.537
     pitch: 5.3168173
-  pumpkin:
-    world: buildswap
-    x: -547.401254439753
-    y: 4.0
-    z: -370.7822993995392
-    yaw: -20.52885
-    pitch: 48.90001
   superjail2:
     world: redstonelandia
     x: 181.09795579391297
@@ -27,73 +20,3 @@ jails:
     z: 402.57378232443494
     yaw: 359.04486
     pitch: 9.172152
-  pumpkin2:
-    world: buildswap
-    x: -538.3000000119209
-    y: 4.0
-    z: -368.69999998807907
-    yaw: 134.72285
-    pitch: 86.85001
-  fence:
-    world: buildswap
-    x: -618.3878745849753
-    y: 4.0
-    z: -476.92500001192093
-    yaw: 157.82271
-    pitch: 31.199984
-  well:
-    world: buildswap
-    x: -746.3000000119209
-    y: 1.0
-    z: -459.69999998807907
-    yaw: 6.7727966
-    pitch: -78.60005
-  prision:
-    world: buildswap
-    x: 696.6999999880791
-    y: 4.0
-    z: -7.30000001192093
-    yaw: -225.44171
-    pitch: 3.749884
-  execution:
-    world: buildswap
-    x: -542.2689161826106
-    y: 4.0
-    z: -390.49089544485986
-    yaw: -182.38281
-    pitch: 5.100043
-  lol:
-    world: buildswap
-    x: -306.30000001192093
-    y: 1.0
-    z: -482.69999998807907
-    yaw: 264.1729
-    pitch: 89.1
-  lol2:
-    world: buildswap
-    x: -309.0851750270467
-    y: 4.0
-    z: -477.80410461975566
-    yaw: 269.2727
-    pitch: 11.399938
-  "prision2.0":
-    world: buildswap
-    x: 696.6999999880791
-    y: 4.0
-    z: -7.300000011920931
-    yaw: -225.74158
-    pitch: 23.549894
-  water:
-    world: redstonelandia
-    x: 147.79584598191943
-    y: 61.0
-    z: 165.84476025239604
-    yaw: 184.19897
-    pitch: 57.449978
-  newprision:
-    world: buildswap
-    x: -544.6999999880791
-    y: 4.0
-    z: -397.69999998807907
-    yaw: -4.6329956
-    pitch: 31.649992
