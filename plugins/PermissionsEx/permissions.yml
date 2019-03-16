@@ -63,9 +63,13 @@ groups:
       prefix: '&f&l[&4&lAdmin&f&l] &0&l'
       inheritence: default
     permissions:
-    - minecraft.*
     - worldedit.*
     - multiverse.*
+    - minecraft.command.setblock
+    - minecraft.command.execute
+    - minecraft.command.title
+    - minecraft.command.tp
+    - minecraft.command.tellraw
     - -minecraft.command.op
     - -bukkit.command.op
     - -bukkit.op
