@@ -48,6 +48,7 @@ groups:
     - essentials.signs.use.trade
     - essentials.signs.use.warp
     - essentials.signs.use.weather
+    - essentials.warp.lobby
     - bw.base
     - plot.*
     - plots.*
