@@ -11,24 +11,10 @@
 #
 regions:
     build:
-        min: {x: -658.0, y: 3.0, z: -337.0}
-        max: {x: -625.0, y: 14.0, z: -323.0}
+        min: {x: -675, y: 4, z: -337}
+        max: {x: -625, y: 59, z: -287}
         members: {}
-        flags: {build: allow, block-break: allow, interact: allow}
+        flags: {exit: deny, build: allow, block-break: allow}
         owners: {}
         type: cuboid
         priority: 0
-    __global__:
-        members: {}
-        flags: {build: deny, block-break: deny}
-        owners: {}
-        type: global
-        priority: 0
-    buildarea:
-        min: {x: -678.0, y: 4.0, z: -311.0}
-        max: {x: -632.0, y: 31.0, z: -291.0}
-        members: {}
-        flags: {build: allow, block-break: allow}
-        owners: {}
-        type: cuboid
-        priority: 100

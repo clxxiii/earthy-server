@@ -41,3 +41,20 @@ regions:
         owners: {}
         type: cuboid
         priority: 0
+    lelbox:
+        min: {x: -267, y: 3, z: 657}
+        max: {x: -265, y: 7, z: 659}
+        members: {}
+        flags:
+            exit: deny
+            build: deny
+            game-mode: adventure
+            blocked-cmds: ['/''/minecraft:summon''', '/''/minecraft:kill''', /kill,
+                /teleport, /gamemode, /setblock, '/''/minecraft:setblock''', /fly,
+                /gm, /summon, /gmc, /warp, '/''/minecraft:tp''']
+            greeting: Welcome to the LEL box! where you'll be staring at a lel sign
+                for the rest of your life! (Don't bother trying to get out)
+            pvp: deny
+        owners: {}
+        type: cuboid
+        priority: 0

@@ -5,17 +5,17 @@ timestamps:
     ope: 1479674656332
     dtools: 1481464167617
     redstone: 1484347286462
-  lastteleport: 1552432845066
-  logout: 1552356033634
-  login: 1552432827665
+  lastteleport: 1552767163832
+  logout: 1552681887176
+  login: 1552765786035
   jail: 0
 lastlocation:
-  world: plots
-  x: 1149.913996328115
-  y: 6.532872282787757
-  z: -186.86257411197434
-  yaw: -75.75363
-  pitch: -7.95029
+  world: note_song
+  x: -931.8867737071844
+  y: 51.5
+  z: -382.7348638648757
+  yaw: 269.88672
+  pitch: 45.749786
 homes:
   home:
     world: BuildingWorld
@@ -24,17 +24,17 @@ homes:
     z: -382.4104893761435
     yaw: 269.0691
     pitch: 10.05005
-godmode: true
+godmode: false
 lastAccountName: clxxiii
 ipAddress: 69.201.32.44
 logoutlocation:
-  world: Tntwarz
-  x: -1374.6165483409668
-  y: 13.736511163928082
-  z: 1327.495802546073
-  yaw: -74.54901
-  pitch: 1.9499631
-afk: false
+  world: lobby
+  x: 1153.8688978699536
+  y: 6.993448742002955
+  z: -135.50467418348606
+  yaw: -172.64905
+  pitch: 11.699995
+afk: true
 money: '10000000000000'
 socialspy: false
 unlimited:
@@ -57,3 +57,4 @@ powertools:
   - fireball
 jailed: false
 powertoolsenabled: false
+nickname: §2§lclxxiii

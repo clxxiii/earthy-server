@@ -1,0 +1,62 @@
+# PlayerVaults by https://github.com/drtshock/PlayerVaults/graphs/contributors
+# http://dev.bukkit.org/bukkit-plugins/playervaults/
+# Made with love :3
+
+# Whether or not you want to check for updates. 
+# Will not download an update by default, that is your job :)
+# We do not break between minecraft versions so auto updating should not be an issue.
+# But it's always a smart idea to read changelogs and such first :)
+check-update: true
+download-update: false
+
+# Debug mode
+# This will print lots of spammy stuff to console.
+# Should probably only enabled this if you're working with drtshock to fix something.
+debug: false
+
+# Signs
+# Do you want to enable signs?
+# You can checkout the project page for info on what this is if you don't know.
+# This can save some performance on servers with 250+ players if disabled.
+signs-enabled: false
+
+# Settings here are for economy integration. playervaults.free bypasses it.
+economy:
+  enabled: false
+  
+# Cost to create a vault. You can give players playervaults.free to bypass this.
+  cost-to-create: 100
+  cost-to-open: 10
+  refund-on-delete: 50
+
+# Blocked Items
+# Here you can block items in vaults.
+# You can give player's playervaults.bypassblockeditems permission to bypass this list.
+# Ops also have an automatic bypass.
+# Use material names. This does not work with ids.
+
+# Should we even use this? If left to false, the list won't do anything.
+blockitems: false
+
+# Only effective if the above option is true.
+blocked-items:
+  - PUMPKIN
+  - DIAMOND_BLOCK
+
+
+# Cleanup
+# Should we cleanup vaults that haven't been used in awhile?
+# Only checks on restarts. Runs on another thread so it won't
+#      lag the server.
+#
+# This will not touch the backups folder. You will have to delete those yourself.
+cleanup:
+  enable: false
+
+  # If a file hasn't been edited for this long, we'll clean it up.
+  # Time is in days.
+  lastEdit: 30
+
+backups:
+  # If you don't want any backups created change this to false.
+  enabled: true

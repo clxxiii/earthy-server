@@ -11,10 +11,23 @@
 #
 regions:
     lobby:
-        min: {x: -144.0, y: 65.0, z: 3.0}
-        max: {x: -52.0, y: 76.0, z: 95.0}
+        min: {x: -144, y: 65, z: 3}
+        max: {x: -52, y: 76, z: 95}
         members: {}
         flags: {vine-growth: deny}
+        owners: {}
+        type: cuboid
+        priority: 0
+    drown:
+        min: {x: 66, y: 60, z: 209}
+        max: {x: 69, y: 60, z: 212}
+        members: {}
+        flags:
+            exit: deny
+            blocked-cmds: [/execute]
+            game-mode: adventure
+            greeting: Welcome to the §nWhirlpool of death! §r enjoy your 20 second
+                visit
         owners: {}
         type: cuboid
         priority: 0

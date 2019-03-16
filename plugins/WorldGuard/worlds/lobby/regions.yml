@@ -11,25 +11,26 @@
 #
 regions:
     lobby:
-        min: {x: -465.0, y: 3.0, z: -712.0}
-        max: {x: -431.0, y: 8.0, z: -681.0}
+        min: {x: 1138, y: 4, z: -238}
+        max: {x: 1185, y: 47, z: -18}
         members: {}
-        flags: {block-break: deny, pvp: allow}
+        flags: {build: allow, block-break: allow, pvp: deny}
         owners: {}
         type: cuboid
         priority: 0
     beacon:
-        min: {x: -448.0, y: 1.0, z: -697.0}
-        max: {x: -446.0, y: 1.0, z: -695.0}
+        min: {x: -448, y: 1, z: -697}
+        max: {x: -446, y: 1, z: -695}
         members: {}
-        flags: {}
+        flags: {build: allow, block-break: allow}
         owners: {}
         type: cuboid
         priority: 0
-    __global__:
-        members:
-            unique-ids: [3e2c4d68-caf6-48da-8297-17418ce69985]
-        flags: {build: deny, block-break: deny, pvp: allow}
+    staffprotect:
+        min: {x: 1147, y: 3, z: -90}
+        max: {x: 1157, y: 6, z: -88}
+        members: {}
+        flags: {entry: deny, greeting: §4§lDON'T §7disturb the staff}
         owners: {}
-        type: global
+        type: cuboid
         priority: 0

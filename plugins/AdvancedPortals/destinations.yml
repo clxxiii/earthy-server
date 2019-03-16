@@ -36,6 +36,6 @@
   buildswap:
     world: buildswap
     pos:
-      X: -655.5
+      X: -655
       Y: 4
-      Z: -319.5
+      Z: -319

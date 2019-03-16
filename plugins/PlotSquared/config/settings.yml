@@ -70,11 +70,11 @@ claim:
 
 redstone:
   # Disable redstone in unoccupied plots
-  disable-unoccupied: true
+  disable-unoccupied: false
   # Disable redstone when all owners/trusted/members are offline
-  disable-offline: true
+  disable-offline: false
   # Detect and cancel invalid pistons on the edge of plots (e.g. placed with WorldEdit)
-  detect-invalid-edge-pistons: true
+  detect-invalid-edge-pistons: false
 
 teleport:
   # Teleport to your plot on death

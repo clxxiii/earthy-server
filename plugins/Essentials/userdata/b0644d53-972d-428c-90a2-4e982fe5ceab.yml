@@ -1,26 +1,26 @@
 lastAccountName: 4name
 timestamps:
-  login: 1552269321454
-  logout: 1514767595059
+  login: 1552614583551
+  logout: 1552615405207
   lastteleport: 1490409146551
   jail: 0
 ipAddress: 47.214.10.209
 afk: false
 lastlocation:
-  world: BuildingWorld
-  x: 822.1873188076582
-  y: 6.672299677636545
-  z: -542.1780649147249
-  yaw: 247.16905
-  pitch: 44.02686
+  world: plots
+  x: 23.409072771583723
+  y: 63.0
+  z: 168.54498045366668
+  yaw: -7.2168884
+  pitch: 24.229343
 logoutlocation:
-  world: BuildingWorld
-  x: 491.2573643494213
-  y: 8.43069527715334
-  z: -453.63890795332304
-  yaw: 90.32754
-  pitch: 43.218727
+  world: plots
+  x: 173.5
+  y: 63.0
+  z: 256.5
+  yaw: 0.075991586
+  pitch: 0.0
 money: '0.0'
-godmode: true
+godmode: false
 jailed: false
-nickname: §4§li_wanna_die_rn
+nickname: buy

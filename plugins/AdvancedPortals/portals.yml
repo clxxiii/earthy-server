@@ -84,7 +84,7 @@ redstone2lob:
     Y: 60
     Z: 279
 plot2lob:
-  world: world
+  world: plots
   triggerblock: NETHER_PORTAL
   destination: lobby
   pos1:
@@ -95,3 +95,27 @@ plot2lob:
     X: -1
     Y: 63
     Z: 195
+build2lob:
+  world: buildswap
+  triggerblock: NETHER_PORTAL
+  destination: lobby
+  pos1:
+    X: -655
+    Y: 8
+    Z: -325
+  pos2:
+    X: -656
+    Y: 3
+    Z: -325
+buildswap:
+  world: lobby
+  triggerblock: NETHER_PORTAL
+  destination: buildswap
+  pos1:
+    X: 1168
+    Y: 6
+    Z: -153
+  pos2:
+    X: 1168
+    Y: 4
+    Z: -153
