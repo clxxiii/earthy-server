@@ -55,6 +55,7 @@ groups:
     - -plots.admin.*
     - -plots.flag.*
     - -plots.gamemode.bypass
+    - essentials.warp.lobby
   admin:
     options:
       default: false
