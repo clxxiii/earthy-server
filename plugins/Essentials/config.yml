@@ -107,7 +107,7 @@ disabled-commands:
 #  - nick
 #  - clear
   - antioch
-  
+
 
 # These commands will be shown to players with socialSpy enabled.
 # You can add commands from other plugins you may want to track or
@@ -343,7 +343,7 @@ debug: false
 #locale: en
 
 # Turn off god mode when people exit.
-remove-god-on-disconnect: false
+remove-god-on-disconnect: true
 
 # Auto-AFK
 # After this timeout in seconds, the user will be set as afk.
@@ -355,7 +355,7 @@ auto-afk: 300
 # After this timeout in seconds, the user will be kicked from the server.
 # essentials.afk.kickexempt node overrides this feature.
 # Set to -1 for no timeout.
-auto-afk-kick: -1
+auto-afk-kick: 900
 
 # Set this to true, if you want to freeze the player, if he is afk.
 # Other players or monsters can't push him out of afk mode then.
@@ -377,11 +377,11 @@ cancel-afk-on-interact: true
 cancel-afk-on-move: true
 
 # You can disable the death messages of Minecraft here.
-death-messages: true
+death-messages: false
 
 # Should operators be able to join and part silently.
 # You can control this with permissions if it is enabled.
-allow-silent-join-quit: false
+allow-silent-join-quit: true
 
 # You can set a custom join message here, set to "none" to disable.
 # You may use color codes, use {USERNAME} the player's name or {PLAYER} for the player's displayname.
@@ -392,13 +392,14 @@ custom-join-message: "&a&k!!!!!&r&b&lWelcome, &r&c{USERNAME}&b&l to Clx-Craft!&a
 custom-quit-message: "&a&k!!!!!&r&b&c{USERNAME}&b&l just left Clx-Craft!&a&k!!!!!"
 
 # Add worlds to this list, if you want to automatically disable god mode there.
-no-god-in-worlds: 
+no-god-in-worlds:
   - knockback_madness
   - skyblock
   - Survival
   - arena
   - arena2
   - bedwars
+  - plots
 
 # Set to true to enable per-world permissions for teleporting between worlds with essentials commands.
 # This applies to /world, /back, /tp[a|o][here|all], but not warps.
@@ -439,7 +440,7 @@ max-fly-speed: 0.8
 max-walk-speed: 0.8
 
 #Set the maximum amount of mail that can be sent within a minute.
-mails-per-minute: 1000
+mails-per-minute: 5
 
 # Set the maximum time /tempban can be used for in seconds.
 # Set to -1 to disable, and essentials.tempban.unlimited can be used to override.
@@ -452,7 +453,7 @@ max-tempban-time: -1
 ############################################################
 
 # Allows people to set their bed at daytime.
-update-bed-at-daytime: true
+update-bed-at-daytime: false
 
 # Set to true to enable per-world permissions for using homes to teleport between worlds.
 # This applies to the /home only.
