@@ -9,9 +9,8 @@ groups:
     - bcolors.chat.colors
     - bcolors.book
     - bcolors.use
-    - -essentials.nick.others
     - essentials.nick.*
-    - essentials.nick
+    - -essentials.nick.others
     - essentials.mail
     - essentials.mail.send
     - essentials.ptime
@@ -22,32 +21,17 @@ groups:
     - essentials.tpaccept
     - essentials.tpa
     - essentials.home
+    - essentials.sethome
     - bcolors.chat.format
     - bcolors.chat.colors
     - bcolors.book
     - bcolors.use
-    - essentials.mail.*
     - essentials.getpos
     - essentials.hat
     - essentials.afk.auto
     - essentials.afk
-    - essentials.signs.use.balance
-    - essentials.signs.use.buy
-    - essentials.signs.use.disposal
-    - essentials.signs.use.enchant
-    - essentials.signs.use.free
-    - essentials.signs.use.gamemode
-    - essentials.signs.use.heal
-    - essentials.signs.use.info
-    - essentials.signs.use.kit
-    - essentials.signs.use.mail
-    - essentials.signs.use.protection
-    - essentials.signs.use.repair
-    - essentials.signs.use.sell
-    - essentials.signs.use.time
-    - essentials.signs.use.trade
-    - essentials.signs.use.warp
-    - essentials.signs.use.weather
+    - essentials.signs.use.*
+    - -essentials.signs.use.spawnmob
     - essentials.warp.lobby
     - bw.base
     - plot.*
@@ -56,7 +40,6 @@ groups:
     - -plots.admin.*
     - -plots.flag.*
     - -plots.gamemode.bypass
-    - essentials.warp.lobby
   admin:
     options:
       default: false
