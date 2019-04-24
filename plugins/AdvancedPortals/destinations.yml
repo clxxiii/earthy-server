@@ -45,3 +45,10 @@
       X: -1184.5
       Y: 25.5
       Z: -1107.5
+
+  survival:
+    world: Survival
+    pos:
+      X: -22
+      Y: 128
+      Z: -9
