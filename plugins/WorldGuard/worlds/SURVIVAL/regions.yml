@@ -10,17 +10,28 @@
 # REMEMBER TO KEEP PERIODICAL BACKUPS.
 #
 regions:
-    deatharena:
-        min: {x: -203.0, y: 204.0, z: 161.0}
-        max: {x: -193.0, y: 211.0, z: 171.0}
+    tube:
+        min: {x: -18, y: 66, z: -12}
+        max: {x: -14, y: 125, z: -8}
         members: {}
-        flags: {build: deny}
+        flags: {}
+        owners: {}
+        type: cuboid
+        priority: 0
+    spawn:
+        min: {x: -27, y: 126, z: -20}
+        max: {x: -5, y: 132, z: 1}
+        members: {}
+        flags: {build: deny, pvp: deny, farewell: §b§lGoodluck!}
         owners: {}
         type: cuboid
         priority: 0
     __global__:
         members: {}
-        flags: {pvp: allow}
+        flags:
+            sleep: deny
+            game-mode: survival
+            allowed-cmds: [/tpa, /back, /home, /warp]
         owners: {}
         type: global
         priority: 0

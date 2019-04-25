@@ -11,8 +11,8 @@
 #
 regions:
     ward:
-        min: {x: 162.0, y: 56.0, z: 444.0}
-        max: {x: 162.0, y: 57.0, z: 444.0}
+        min: {x: 162, y: 56, z: 444}
+        max: {x: 162, y: 57, z: 444}
         members: {}
         flags: {block-break: deny, tnt: deny}
         owners: {}

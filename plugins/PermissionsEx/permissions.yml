@@ -9,8 +9,9 @@ groups:
     - bcolors.chat.colors
     - bcolors.book
     - bcolors.use
-    - essentials.nick.*
     - -essentials.nick.others
+    - essentials.nick.*
+    - essentials.nick
     - essentials.mail
     - essentials.mail.send
     - essentials.ptime
@@ -21,17 +22,32 @@ groups:
     - essentials.tpaccept
     - essentials.tpa
     - essentials.home
-    - essentials.sethome
     - bcolors.chat.format
     - bcolors.chat.colors
     - bcolors.book
     - bcolors.use
+    - essentials.mail.*
     - essentials.getpos
     - essentials.hat
     - essentials.afk.auto
     - essentials.afk
-    - essentials.signs.use.*
-    - -essentials.signs.use.spawnmob
+    - essentials.signs.use.balance
+    - essentials.signs.use.buy
+    - essentials.signs.use.disposal
+    - essentials.signs.use.enchant
+    - essentials.signs.use.free
+    - essentials.signs.use.gamemode
+    - essentials.signs.use.heal
+    - essentials.signs.use.info
+    - essentials.signs.use.kit
+    - essentials.signs.use.mail
+    - essentials.signs.use.protection
+    - essentials.signs.use.repair
+    - essentials.signs.use.sell
+    - essentials.signs.use.time
+    - essentials.signs.use.trade
+    - essentials.signs.use.warp
+    - essentials.signs.use.weather
     - essentials.warp.lobby
     - bw.base
     - plot.*
@@ -40,6 +56,7 @@ groups:
     - -plots.admin.*
     - -plots.flag.*
     - -plots.gamemode.bypass
+    - essentials.warp.lobby
   admin:
     options:
       default: false
@@ -72,6 +89,8 @@ groups:
       prefix: '&f&l[&b&lOwner&f&l] &2&l'
       inheritence: admin
     permissions:
+    - -essentials.sudo.exempt
+    - -essentials.sudo.exemp
     - '*'
     - plots.gamemode.bypass
     - -plots.admin
@@ -92,6 +111,7 @@ groups:
 users:
   3e2c4d68-caf6-48da-8297-17418ce69985:
     group:
+    - Developer
     - Dev
     options:
       name: clxxiii
@@ -100,6 +120,8 @@ users:
       name: starrycave
     group:
     - Dev
+    - admin
+    permissions: []
   80c7e381-42e5-4a9d-b362-e5b447353e04:
     group:
     - owner
@@ -108,4 +130,9 @@ users:
     permissions:
     - -worldguard.region.bypass.plots
     - -worldguard.region.bypass
+  b302088d-aeff-42bd-a596-0b2eaf21e59b:
+    group:
+    - admin
+    options:
+      name: CreeperZapp
 schema-version: 1
