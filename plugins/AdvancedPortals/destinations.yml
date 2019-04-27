@@ -39,8 +39,8 @@
       X: -655
       Y: 4
       Z: -319
-  knockback_madness_v4-6b:
-    world: knockback_madness
+  knockbackmadness:
+    world: knockback_madness_v4-6b
     pos:
       X: -1184.5
       Y: 25.5
