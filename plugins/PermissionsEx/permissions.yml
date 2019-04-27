@@ -129,6 +129,7 @@ users:
       name: starrycave
     group:
     - Dev
+    - -minecraft.command.op
     permissions: []
   80c7e381-42e5-4a9d-b362-e5b447353e04:
     group:
