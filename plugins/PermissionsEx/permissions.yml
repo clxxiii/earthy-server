@@ -57,6 +57,7 @@ groups:
     - -plots.flag.*
     - -plots.gamemode.bypass
     - essentials.warp.lobby
+    - -worldguard.region.bypass.*
   admin:
     options:
       default: false
@@ -83,6 +84,8 @@ groups:
     - -plots.gamemode.bypass
     - -minecraft.command.op
     - -essentials.jail.exempt
+    - modifyworld.*
+    - -worldguard.region.bypass.*
   owner:
     options:
       default: false
@@ -97,6 +100,8 @@ groups:
     - -plots.admin.*
     - -plots.flag.*
     - -plots.gamemode.bypass
+    - modifyworld.*
+    - -worldguard.region.bypass.*
   Dev:
     options:
       prefix: '&f&l[&a&lDev&f&l] &b&l'
@@ -108,10 +113,13 @@ groups:
     - -plots.admin.*
     - -plots.flag.*
     - -plots.gamemode.bypass
+    - -minecraft.command.op
+    - -minecraft.command.deop
+    - modifyworld.*
+    - -worldguard.region.bypass.*
 users:
   3e2c4d68-caf6-48da-8297-17418ce69985:
     group:
-    - Developer
     - Dev
     options:
       name: clxxiii
@@ -120,7 +128,6 @@ users:
       name: starrycave
     group:
     - Dev
-    - admin
     permissions: []
   80c7e381-42e5-4a9d-b362-e5b447353e04:
     group:
