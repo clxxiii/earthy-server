@@ -106,6 +106,7 @@ groups:
     options:
       prefix: '&f&l[&a&lDev&f&l] &b&l'
       inheritence: owner
+      default: false
     permissions:
     - '*'
     - -plots.gamemode.bypass
