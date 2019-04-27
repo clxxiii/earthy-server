@@ -1,0 +1,15 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:quartz_block",
+    "minecraft:iron_block",
+    "minecraft:end_stone",
+    "minecraft:cracked_stone_bricks",
+    "minecraft:mycelium",
+    "minecraft:bricks",
+    "minecraft:lime_terracotta",
+    "minecraft:red_terracotta",
+    "minecraft:black_terracotta",
+    "minecraft:orange_terracotta"
+  ]
+}

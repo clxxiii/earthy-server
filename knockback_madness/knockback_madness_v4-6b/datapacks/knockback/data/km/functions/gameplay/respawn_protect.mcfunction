@@ -1,0 +1,2 @@
+execute as @a[scores={dtm=1},tag=in_game] run replaceitem entity @s armor.head minecraft:iron_helmet{AttributeModifiers: [{AttributeName: "generic.knockbackResistance",Name: "generic.knockbackResistance",Amount: 100,Operation: 0,UUIDMost: 67992,UUIDLeast: 661026,Slot:"head"}], Enchantments:[{id:"minecraft:binding_curse",lvl:1}]}
+execute as @a[scores={dtm=50},tag=in_game] run replaceitem entity @s armor.head air
