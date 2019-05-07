@@ -1,1 +1,0 @@
-scoreboard players operation @s fir = @s dth

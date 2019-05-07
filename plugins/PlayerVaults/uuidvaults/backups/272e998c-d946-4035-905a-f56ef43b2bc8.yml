@@ -1,3 +1,0 @@
-vault1:
-  '0': '{"==":"org.bukkit.inventory.ItemStack","amount":63,"meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"PROTECTION_ENVIRONMENTAL":0},"display-name":"1204"},"type":"TRIPWIRE_HOOK"}'
-  '1': '{"==":"org.bukkit.inventory.ItemStack","amount":64,"meta":{"==":"ItemMeta","meta-type":"UNSPECIFIC","enchants":{"PROTECTION_ENVIRONMENTAL":0},"display-name":"1205"},"type":"TRIPWIRE_HOOK"}'

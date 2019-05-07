@@ -1,34 +1,4 @@
 lastAccountName: CreeperZapp
 timestamps:
-  login: 1518031742512
-  lastteleport: 1518031772510
-  logout: 1518032873611
-  jail: 0
-ipAddress: 67.249.88.176
-lastlocation:
-  world: knockback_madness
-  x: -1183.601392755697
-  y: 30.0
-  z: -1117.9004242623043
-  yaw: -1.8032227
-  pitch: 89.24999
-godmode: true
-logoutlocation:
-  world: knockback_madness
-  x: -1183.601392755697
-  y: 30.0
-  z: -1117.9004242623043
-  yaw: -1.8032227
-  pitch: 89.24999
-jailed: false
-nickname: §2Creeper§0Z§6a§0p§6p
-afk: false
-money: '0.0'
-homes:
-  home:
-    world: opisland
-    x: 81.8248746102984
-    y: 172.0
-    z: 214.98770806084323
-    yaw: 176.39993
-    pitch: 30.300022
+  login: 1557265286898
+ipAddress: 67.241.68.164

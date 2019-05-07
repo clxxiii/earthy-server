@@ -1,2 +1,0 @@
-execute if score @s opt matches 502 if score %djt% opr matches 1 run function km:trigger/toggles/511a
-execute if score @s opt matches 502 if score %djt% opr matches 0 run function km:trigger/toggles/511b

@@ -1,22 +1,4 @@
-lastAccountName: Iswim6
+lastAccountName: Wda04
 timestamps:
-  login: 1491179286702
-  lastteleport: 1489617091413
-  logout: 1491181317890
-ipAddress: 68.175.153.92
-lastlocation:
-  world: buildswap
-  x: -691.2455199281854
-  y: -221.58666231890163
-  z: -286.2936732409175
-  yaw: 324.01367
-  pitch: -50.2196
-logoutlocation:
-  world: buildswap
-  x: -691.2455199281854
-  y: -221.58666231890163
-  z: -286.2936732409175
-  yaw: 324.01367
-  pitch: -50.2196
-afk: false
-money: '0.0'
+  login: 1557265319379
+ipAddress: 74.79.255.31
