@@ -10,6 +10,8 @@ groups:
       - essentials.home
       - essentials.delhome
       - essentials.back
+      - essentials.tpaccept
+      - essentials.tpadeny
   pex:
     options:
       default: false
