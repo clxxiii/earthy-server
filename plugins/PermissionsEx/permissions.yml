@@ -12,6 +12,10 @@ groups:
       - essentials.back
       - essentials.tpaccept
       - essentials.tpadeny
+      - essentials.eco
+      - essentials.balance
+      - essentials.worth
+      - essentials.pay
   pex:
     options:
       default: false
