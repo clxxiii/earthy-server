@@ -3,23 +3,55 @@ groups:
     options:
       default: true
     permissions:
-      - modifyworld.*
-      - essentials.tpa
-      - essentials.tpahere
-      - essentials.sethome
-      - essentials.home
-      - essentials.delhome
-      - essentials.back
-      - essentials.tpaccept
-      - essentials.tpadeny
-      - essentials.eco
-      - essentials.balance
-      - essentials.worth
-      - essentials.pay
+    - modifyworld.*
+    - essentials.tpa
+    - essentials.tpahere
+    - essentials.sethome
+    - essentials.home
+    - essentials.delhome
+    - essentials.back
+    - essentials.tpaccept
+    - essentials.tpadeny
+    - essentials.eco
+    - essentials.balance
+    - essentials.worth
+    - essentials.pay
+    - essentials.sell
+    - essentials.signs.use.balance
+    - essentials.signs.use.buy
+    - essentials.signs.use.disposal
+    - essentials.signs.use.enchant
+    - essentials.signs.use.free
+    - essentials.signs.use.gamemode
+    - essentials.signs.use.heal
+    - essentials.signs.use.info
+    - essentials.signs.use.kit
+    - essentials.signs.use.mail
+    - essentials.signs.use.protection
+    - essentials.signs.use.repair
+    - essentials.signs.use.sell
+    - essentials.signs.use.time
+    - essentials.signs.use.trade
+    - essentials.signs.use.warp
+    - essentials.signs.use.weather
+    - essentials.signs.create.buy
+    - essentials.signs.create.sell
+    - essentials.signs.create.balance
+    - essentials.signs.create.trade
+    - essentials.balancetop
+    - essentials.chat.color
+    - essentials.chat.format
+    - essentials.chat.magic
+    - essentials.chat.url
+    - essentials.recipe
   pex:
     options:
       default: false
     permissions:
-      - pex.*
-      - permissions.*
+    - pex.*
+    - permissions.*
 schema-version: 1
+users:
+  c62af508-4792-4d1a-a32d-36709c2789d0:
+    permissions:
+    - -minecraft.*

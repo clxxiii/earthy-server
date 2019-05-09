@@ -4,20 +4,20 @@ worth:
   # Setting the worth to 0 will sell items for free, delete the item or set to -1 to disable.
 
   # This will set the worth of all logs to '2'
-  log: 2.0  
+  log: 2.0
 
   # This will work similar to the above syntax
   wool:
     '0': 20
-    
+
   # This will only allow selling leaves with datavalue '0' and '1'
-  leaves: 
+  leaves:
     '0': 1.0
     '1': 1.0
-    
-  # This will allow the selling of all, but sells '0' slightly cheaper  
+
+  # This will allow the selling of all, but sells '0' slightly cheaper
   sapling:
-    '0': 2.0  
+    '0': 2.0
     '*': 2.5
 
 
@@ -33,7 +33,7 @@ worth:
   feather: 3.0
   goldchestplate: 6.5
   mushroomsoup: 4.5
-  bread: 30.0
+  bread: 27.0
   stationarywater: 1.0
   workbench: 2.5
   stonehoe: 2.5
@@ -164,7 +164,7 @@ worth:
   diamond: 200.0
   glass: 3.00
   goldspade: 6.0
-  lapisblock: 950.0
+  lapisblock: 200.0
   lavabucket: 40.0
   wheat: 9.0
   ladder: 0.5
@@ -184,3 +184,5 @@ worth:
   ironboots: 22.0
   step: 1.5
   sugar: 10.0
+  emerald: 350.0
+  redstoneblock: 288.0

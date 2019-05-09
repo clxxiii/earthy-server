@@ -1,0 +1,28 @@
+lastAccountName: TristanTheBold
+timestamps:
+  login: 1557279171689
+  logout: 1557288044032
+  lastteleport: 1557288039294
+ipAddress: 24.59.251.229
+logoutlocation:
+  world: Survival
+  x: 2835.5
+  y: 69.0
+  z: -1210.5
+  yaw: -175.79024
+  pitch: 19.973917
+lastlocation:
+  world: Survival
+  x: 4337.854303999278
+  y: 24.0
+  z: -310.3821788702771
+  yaw: -34.76776
+  pitch: 10.526545
+homes:
+  home:
+    world: Survival
+    x: 2835.512288839508
+    y: 69.0
+    z: -1210.8793920970265
+    yaw: -166.24109
+    pitch: 22.803247

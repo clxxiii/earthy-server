@@ -1,4 +1,29 @@
 lastAccountName: Wda04
 timestamps:
-  login: 1557265319379
+  login: 1557350582212
+  lastteleport: 1557357048743
+  logout: 1557357082234
 ipAddress: 74.79.255.31
+homes:
+  home:
+    world: Survival
+    x: 446.39251496458735
+    y: 88.0
+    z: -50.8863753079222
+    yaw: 273.19116
+    pitch: 23.082747
+lastlocation:
+  world: Survival
+  x: -155.99592760270363
+  y: 69.0
+  z: -827.5350665335586
+  yaw: 7.48822
+  pitch: 28.20066
+logoutlocation:
+  world: Survival
+  x: 448.2918018591195
+  y: 88.0
+  z: -50.514122274495
+  yaw: 273.19116
+  pitch: 23.082747
+money: '69'
