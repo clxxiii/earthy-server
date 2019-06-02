@@ -16,7 +16,7 @@ command-costs: ~
 currency-symbol: $
 custom-join-message: "&a&k!!!!!&r&b&lWelcome, &r&c{USERNAME}&b&l to Clx-Craft!&a&k!!!!!&r"
 custom-quit-message: "&a&k!!!!!&r&b&c{USERNAME}&b&l just left Clx-Craft!&a&k!!!!!"
-death-messages: false
+death-messages: true
 debug: false
 default-stack-size: -1
 disable-item-pickup-while-afk: false

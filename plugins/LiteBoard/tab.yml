@@ -1,0 +1,28 @@
+# Animated TAB Footer/Header
+
+# Enable this feature?
+enable: true
+
+# Header
+header:
+  # Update Time(tick)
+  # Lower = Faster
+  time: 10
+  # Frames
+  frames:
+  - '&e&lExample TAB Header'
+  - '&b&lExample TAB Header'
+  - '&c&lExample TAB Header'
+  - '&a&lExample TAB Header'
+  - '&3&lExample TAB Header'
+  - '&6&lExample TAB Header'
+
+# Footer
+footer:
+  # Update time (tick)
+  time: 30
+  # Footer Frames
+  frames:
+  - '&e&lHello! &r&l%player_name%&e&l, Welcome to this server %break% &a&lPower by LiteBoard™'
+  - '&lYou World: &a&l%player_world% %break% &a&lPower by LiteBoard™'
+  - '&e&lIf you loe this server,please tell it to your friends %break% &a&lPower by LiteBoard™'

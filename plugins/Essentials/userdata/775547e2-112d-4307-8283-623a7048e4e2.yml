@@ -1,12 +1,28 @@
 lastAccountName: noelbanana
 timestamps:
-  login: 1557353555771
-  logout: 1557353687527
+  login: 1559429387726
+  logout: 1559430371359
+  lastteleport: 1559430292179
 ipAddress: 68.175.141.92
 logoutlocation:
   world: Survival
-  x: 243.30102241690045
-  y: 96.0
-  z: -1.464110417861444
-  yaw: 60.908325
-  pitch: 27.462337
+  x: 718.664153584032
+  y: 72.0
+  z: 105.73165520173845
+  yaw: -58.046356
+  pitch: 11.187037
+lastlocation:
+  world: Survival
+  x: 272.7412993838019
+  y: 70.0
+  z: 153.65711694169107
+  yaw: 168.66739
+  pitch: 1.4309022
+homes:
+  home:
+    world: Survival
+    x: 803.1732391579433
+    y: 70.0
+    z: 115.19675363330035
+    yaw: 92.658165
+    pitch: 5.9931936

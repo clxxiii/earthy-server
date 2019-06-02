@@ -1,0 +1,46 @@
+#-------------------------------------------------------------------------------------------
+#
+#                                       LiteBoard
+#
+#                       A advanced animated FREE scoreboard plugin <3
+#
+#-------------------------------------------------------------------------------------------
+
+# First,you should know,I am Chinese,and I am not good at English
+# And I am lazy to use Google Translator
+# So,the plugin may contains many language mistakes
+# If you find any language mistakes,you can report it to me at Discord
+# Thank you very much!
+
+# Plugin Stats: https://bstats.org/plugin/bukkit/LiteBoard
+# Discord Server: https://discord.gg/qhf3jk
+
+# This is default config which generate by LiteBoard Version: 5.2.4
+# Config Version (Don't touch this if you dont know what is it)
+config_ver: 1
+
+
+# Async Board
+# Run the LiteBoard on Async Thread,it will not lag your server
+# But if you have any problems with async task,you can set to false
+async: true
+
+# Check Plugin Update
+update: true
+
+# Use old scoreboard system
+# This can be compatible with version 1.7
+# And it will auto enable when you using 1.7 server
+old_scoreboard: false
+
+# Automatic switch the showing scoreboard when you have multi-scoreboard in the same world
+# For Example:
+# If you have scoreboard_a and scoreboard_b in the "world" and you have both permissions of them
+# And then if you turn on this feature,the scoreboard will switch scoreboards between scoreboard_a and scoreboard_b
+# Just like this scoreboard_a -> scoreboard_b -> scoreboard_a -> scoreboard_b -> .....
+auto_switch:
+  # Enable this feature?
+  enable: true
+
+  # Switch delay (Seconds)
+  delay: 10

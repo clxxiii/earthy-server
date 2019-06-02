@@ -1,29 +1,30 @@
 lastAccountName: starrycave
 timestamps:
-  login: 1557356527023
-  lastteleport: 1557352042127
-  logout: 1557356523510
+  login: 1559438486618
+  lastteleport: 1559402791233
+  logout: 1559404103232
 ipAddress: 67.249.137.44
 lastlocation:
   world: Survival
-  x: 241.26670983088786
-  y: 78.0
-  z: -123.73618450076803
-  yaw: 28.976809
-  pitch: 68.89038
+  x: 401.8221273019153
+  y: 11.0
+  z: -182.57678616408091
+  yaw: -32.464752
+  pitch: 18.324903
 homes:
   home:
     world: Survival
-    x: 609.6059433445125
+    x: 593.1253397532679
     y: 63.0
-    z: -168.24816779276247
-    yaw: -229.75195
-    pitch: 11.811662
+    z: -169.29589593763333
+    yaw: -74.624725
+    pitch: 18.338951
 logoutlocation:
   world: Survival
-  x: 598.299999974668
-  y: 63.0000002
-  z: -168.70000002533197
-  yaw: 307.73682
-  pitch: 0.0
-money: '141.000'
+  x: 595.2535706576907
+  y: 63.0
+  z: -170.66353967126838
+  yaw: 321.2605
+  pitch: 29.172243
+money: '187.000'
+nickname: §6§lG§b§kG§6§lO§b§kO§6§lO§b§kO§6§lG§b§kG§6§lE§b§kE§6§lN§b§kN§6§lS§b§kS§6§lH§b§kH§6§lH§b§kH§6§lN§b§kN§6§lO§b§kO§6§lO§b§kO§6§lN§b§kN

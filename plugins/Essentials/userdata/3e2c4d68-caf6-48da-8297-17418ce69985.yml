@@ -1,21 +1,34 @@
 lastAccountName: clxxiii
 timestamps:
-  login: 1557354974418
-  lastteleport: 1557355459934
-  logout: 1557313969381
+  login: 1559438269306
+  lastteleport: 1559433103057
+  logout: 1559438264584
+  kits:
+    color: 1559438562472
 ipAddress: 69.201.32.44
 lastlocation:
   world: Survival
-  x: 606.7894329592848
+  x: 490.06828066388687
   y: 63.0
-  z: -172.89992822235317
-  yaw: 282.78943
-  pitch: -10.787428
+  z: -30.49615463112662
+  yaw: 185.01978
+  pitch: 21.514553
 logoutlocation:
   world: Survival
-  x: 241.32536177701516
-  y: 78.0
-  z: -121.47142447627235
-  yaw: -204.30219
-  pitch: 20.549517
-money: '32.0'
+  x: 236.58463540111944
+  y: 72.5625
+  z: 144.94755934644488
+  yaw: 190.80104
+  pitch: 21.742157
+money: '69.0'
+homes:
+  home:
+    world: Survival
+    x: 230.84380392358634
+    y: 72.5625
+    z: 146.68824603531476
+    yaw: 175.55061
+    pitch: 77.40013
+afk: false
+nickname: clxxiii
+godmode: false

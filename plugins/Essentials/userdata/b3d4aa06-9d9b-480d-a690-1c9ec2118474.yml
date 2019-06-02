@@ -1,0 +1,28 @@
+lastAccountName: FieryAF
+timestamps:
+  login: 1559076962532
+  logout: 1559077853583
+  lastteleport: 1559077106691
+ipAddress: 67.249.138.81
+logoutlocation:
+  world: Survival
+  x: 1045.300000011921
+  y: 75.0
+  z: 812.5639783377527
+  yaw: -41.233948
+  pitch: 22.557623
+homes:
+  home:
+    world: Survival
+    x: 94.30000001192093
+    y: 67.0
+    z: 112.30000001192094
+    yaw: 282.38327
+    pitch: 27.62254
+lastlocation:
+  world: Survival
+  x: 89.47029122965888
+  y: 66.0
+  z: 114.03753816554477
+  yaw: 261.86554
+  pitch: 6.030442

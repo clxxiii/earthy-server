@@ -1,0 +1,29 @@
+lastAccountName: Peppykiss395
+timestamps:
+  login: 1559434576657
+  lastteleport: 1559437956409
+  logout: 1559438050496
+ipAddress: 68.52.246.137
+homes:
+  home:
+    world: Survival
+    x: -3429.643268359227
+    y: 63.0
+    z: -3005.297481872224
+    yaw: -1.0776561
+    pitch: 76.554985
+lastlocation:
+  world: Survival
+  x: -4313.306729718543
+  y: 69.0
+  z: -2210.422394970837
+  yaw: 225.29982
+  pitch: 22.596539
+logoutlocation:
+  world: Survival
+  x: -3433.220872120364
+  y: 63.0
+  z: -3002.487805813389
+  yaw: -288.27222
+  pitch: 23.327614
+money: '69'

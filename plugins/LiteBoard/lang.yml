@@ -1,0 +1,24 @@
+# Language
+
+command:
+  illegal_number: '&cYou input a illegal number,please check your command!'
+  switch:
+    success: '&aSucceed switched the scoreboard'
+    noboard: '&cCant find that board or you don''t have enough permission'
+    description: Force switch to another board
+  reload:
+    success: '&aSucceed Reloaded the LiteBoard'
+    description: Reload Config
+  cb:
+    success: '&aSucceed send the command board to the player!'
+    description: Send the player a temporary board(Wanna Example? see plugin overview
+      page)
+  offline: '&cThe player is offline!'
+  header: '&bCommand List:'
+  toggle:
+    success: Toggled your scoreboard~
+    description: Toggle the board
+    other: Toggled scoreboard for him.
+  nopermission: '&cYou don''t have permission: '
+  arg_error: '&cCommand parameter length error,please check your commands!'
+  notfound: '&cCan''t find that command,please check your command: '

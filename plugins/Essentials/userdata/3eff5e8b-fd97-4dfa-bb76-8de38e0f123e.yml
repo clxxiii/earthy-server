@@ -1,0 +1,28 @@
+lastAccountName: DiamondDeath102
+timestamps:
+  login: 1558830239268
+  lastteleport: 1558832047113
+  logout: 1558832100724
+ipAddress: 172.78.141.182
+lastlocation:
+  world: Survival
+  x: 139.5
+  y: 63.0
+  z: -163.5
+  yaw: 50.54969
+  pitch: 24.900017
+homes:
+  home:
+    world: Survival
+    x: 139.90261653533386
+    y: 63.0
+    z: -163.13651742632106
+    yaw: 50.54969
+    pitch: 24.900017
+logoutlocation:
+  world: Survival
+  x: 141.23736652480707
+  y: 68.43858963648472
+  z: -160.94262534095438
+  yaw: -83.84845
+  pitch: 52.650227

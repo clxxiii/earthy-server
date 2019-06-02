@@ -1,0 +1,56 @@
+#Example Event Board
+#You can create your board by creating a .yml file and put it into "boards" folder
+#And this is a example that how to config a board
+
+
+#First,You need to set the board title
+title:
+  #Update Title Time(tick)
+  time: 3
+  #Frames
+  frames:
+  - '&e&lBreaking Block'
+
+#Lines
+lines:
+  #Update Frames Timer(tick)
+  time: 20
+  #Animated Lines
+  lines:
+    first:
+    - ''
+    blockinfo:
+    - 'You are breaking block: &a%block_type%'
+    xd:
+    - ''
+    tps:
+    - 'World: &a%player_world%'
+    wdhbhn3dg3gduyg:
+    - ''
+    ip:
+    - '&ewww.spigotmc.org'
+
+#Enable Worlds
+worlds:
+- 'world'
+- 'world_nether'
+- 'world_the_end'
+
+#Scoreboard Priority
+#If you have more than one scoreboard in a world
+#You should use the priority feature
+#Lower = Higher Priority
+priority: 0
+
+#Event Trigger Board
+#What is event trigger board?
+#It is a board which will be showed to player that triggered some events
+#Event board only show when player triggered events
+event_trigger:
+  #Enable this feature for this board?
+  enable: true
+  #Trigger Time (tick)
+  time: 60
+  #Trigger Events
+  events:
+  - 'PlayerBreakEvent'

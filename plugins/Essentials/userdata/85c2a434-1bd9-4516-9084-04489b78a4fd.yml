@@ -1,0 +1,28 @@
+lastAccountName: Zachzilla207
+timestamps:
+  login: 1559429953625
+  lastteleport: 1559438187413
+  logout: 1559429951309
+ipAddress: 68.175.128.57
+homes:
+  home:
+    world: Survival
+    x: 99.41770471796505
+    y: 95.0
+    z: 287.4974794287908
+    yaw: -33.363148
+    pitch: 20.70007
+lastlocation:
+  world: Survival
+  x: 66.61705265575928
+  y: 78.0
+  z: 168.19171545365893
+  yaw: 336.5708
+  pitch: 37.800076
+logoutlocation:
+  world: Survival
+  x: 100.80052619034154
+  y: 95.0
+  z: 289.4782619672424
+  yaw: 26.786833
+  pitch: 27.000053

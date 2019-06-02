@@ -1,0 +1,28 @@
+lastAccountName: MoleculeT
+timestamps:
+  login: 1559185742761
+  logout: 1559187322695
+  lastteleport: 1559187188846
+ipAddress: 68.175.145.134
+logoutlocation:
+  world: Survival_nether
+  x: 0.8298541242810812
+  y: 57.0
+  z: 3.300000011920925
+  yaw: -190.06439
+  pitch: 6.7495966
+lastlocation:
+  world: Survival
+  x: 769.1648336176371
+  y: 32.0
+  z: -259.30000001192093
+  yaw: -23.418915
+  pitch: 25.200079
+homes:
+  home:
+    world: Survival
+    x: 38.30000001192093
+    y: 63.0
+    z: -85.69999998807907
+    yaw: -162.91425
+    pitch: 53.699814

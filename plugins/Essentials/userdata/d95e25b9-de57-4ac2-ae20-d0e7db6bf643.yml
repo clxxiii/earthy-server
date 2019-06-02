@@ -1,20 +1,29 @@
 lastAccountName: Grayfox229
 timestamps:
-  login: 1557354925663
-  logout: 1557354907676
-  lastteleport: 1557354461935
+  login: 1559430032258
+  logout: 1559429366098
+  lastteleport: 1559438332233
 ipAddress: 68.175.140.244
 logoutlocation:
-  world: Survival
-  x: 359.30000001192093
-  y: 80.0
-  z: 37.44949376929331
-  yaw: 64.46897
-  pitch: -14.849977
+  world: Survival_nether
+  x: -627.5
+  y: 75.0
+  z: 380.5
+  yaw: 145.31314
+  pitch: 9.600428
 lastlocation:
   world: Survival
-  x: 791.8298272302637
-  y: 15.0
-  z: 465.3626806868463
-  yaw: -309.1183
-  pitch: 11.400216
+  x: 417.22246124565925
+  y: 80.0
+  z: 117.78627132408533
+  yaw: -117.775604
+  pitch: 21.749987
+homes:
+  home:
+    world: Survival
+    x: 410.26257395065824
+    y: 80.0
+    z: 116.58138021293945
+    yaw: -357.92596
+    pitch: 21.14998
+money: '69'

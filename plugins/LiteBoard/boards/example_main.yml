@@ -1,0 +1,74 @@
+#Example Main Board
+#You can create your board by creating a .yml file and put it into "boards" folder
+#And this is a example that how to config a board
+
+
+#First,You need to set the board title
+title:
+  #Update Title Time(tick)
+  time: 3
+  #Frames
+  frames:
+  - '&e&lL'
+  - '&e&lLi'
+  - '&e&lLit'
+  - '&e&lLite'
+  - '&e&lLiteB'
+  - '&e&lLiteBo'
+  - '&e&lLiteBoa'
+  - '&e&lLiteBoar'
+  - '&e&lLiteBoard'
+  - '&e&lLiteBoard'
+  - '&6&lLiteBoard'
+  - '&f&lLiteBoard'
+  - '&a&lLiteBoard'
+  - '&c&lLiteBoard'
+  - '&e&lLiteBoard'
+  - '&e&l LiteBoard'
+  - '&e&lLiteBoard'
+  - '&e&lLiteBoard '
+  - '&e&lLiteBoard'
+
+#Lines
+lines:
+  #Update Frames Timer(tick)
+  time: 20
+  #Animated Lines
+  lines:
+    first:
+    - ''
+    name:
+    - 'Hello: &a%player_name%'
+    - 'Hello: &b%player_name%'
+    xd:
+    - ''
+    tps:
+    - 'TPS: &a%tps%'
+    online:
+    - 'Online: &a%server_online%'
+    world:
+    - 'World: &a%player_world%'
+    wdhbhn3dg3gduyg:
+    - ''
+    ip:
+    - '&eearthythegamer.server.io'
+
+#Enable Worlds
+
+#Scoreboard Priority
+#If you have more than one scoreboard in a world
+#You should use the priority feature
+#Lower = Higher Priority
+priority: 0
+
+#Event Trigger Board
+#What is event trigger board?
+#It is a board which will be showed to player that triggered some events
+event_trigger:
+  #Enable this feature for this board?
+  enable: false
+  #Trigger Time (tick)
+  time: 100
+  #Trigger Events
+  events:
+  - 'PlayerChatEvent'
