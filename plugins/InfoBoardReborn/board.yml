@@ -56,7 +56,7 @@ InfoBoard:
       default:
         Title: '&e&lCLXXIII Craft'
         Rows:
-        - '&r&6----[InfoBoard]----'
+        - '&r&6&l⤚⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⤙'
         - ' '
         - '&e&lWelcome!'
         - '&l%player_name%'
@@ -70,14 +70,14 @@ InfoBoard:
         - '&e&lIP:'
         - 'earthythegamer.mcpro.io'
         - ' '
-        - '&6----[InfoBoard]----'
+        - '&6&l⤚⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⤙'
   '2':
-    ShowTime: 20
+    ShowTime: 10
     global:
       default:
         Title: '&e&lPlayer Stats'
         Rows:
-        - '&r&6----[InfoBoard]----'
+        - '&r&6&l⤚⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⤙'
         - ' '
         - '&e&lWelcome!'
         - '&l%player_name%'
@@ -91,11 +91,11 @@ InfoBoard:
         - '&e&lPing:'
         - '&b%player_ping%'
         - ' '
-        - '&6----[InfoBoard]----'
+        - '&6&l⤚⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⤙'
       Admin:
         Title: '&e&lServer Stats'
         Rows:
-        - '&r&6----[InfoBoard]----'
+        - '&r&6&l⤚⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⤙'
         - ' '
         - '&a&lMemory:'
         - '&e%server_ram_used%&7/&e%server_ram_max%'
@@ -103,4 +103,4 @@ InfoBoard:
         - '&d&lUptime'
         - '&f%server_uptime%'
         - ' '
-        - '&6----[InfoBoard]----'
+        - '&6&l⤚⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⤙'

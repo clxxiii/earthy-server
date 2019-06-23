@@ -1,6 +1,7 @@
 &e----------&4Message Of The Day&e---------
-  &6Welcome, {PLAYER}&6!
-  &6Use &c/music&6, or right click with a &cWooden Hoe&6 to change music settings.
-  &6Join the Discord Server: &cdiscord.gg/ghdwxQ5&6!
-  &6Players online:&c {ONLINE} &6- World time:&c {WORLDTIME12}
+    &6Welcome, {PLAYER}&6!
+    &6Use &c/music&6, or right click with a &cWooden Hoe&6 to change music settings.
+    &6Use &c/ib hide&6 to hide the InfoBoard
+    &6Join the Discord Server: &cdiscord.gg/ghdwxQ5&6!
+    &6Players online:&c {ONLINE} &6- World time:&c {WORLDTIME12}
 &e------------------------------------

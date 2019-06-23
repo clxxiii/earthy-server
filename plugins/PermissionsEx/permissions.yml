@@ -3,6 +3,7 @@ groups:
     options:
       default: true
     permissions:
+    - InfoBoard.Toggle
     - essentials.seen
     - essentials.keepxp
     - essentials.hat

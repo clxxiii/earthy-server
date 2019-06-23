@@ -2,7 +2,7 @@
 #     |   __|___ ___ _ _ ___ ___|  |  |_|___| |_|  _  | |_ _ ___
 #     |__   | -_|  _| | | -_|  _|  |__| |_ -|  _|   __| | | |_ -|
 #     |_____|___|_|  \_/|___|_| |_____|_|___|_| |__|  |_|___|___|
-# 
+#
 # ServerListPlus v3.4.8 - http://git.io/slp
 
 # More information is available in the Wiki: http://git.io/slp-wiki
@@ -12,7 +12,7 @@
 #  - Default is the section for the status used when the player name is unknown.
 #    Personalized is used if the client has already joined the server once.
 #    Use %player% as placeholder for the player's name.
-# 
+#
 # Features:
 #  - Description (MotD): A short status message for your server, max. 2 lines.
 #  - Players:
@@ -21,9 +21,9 @@
 #  - Favicon:
 #    - Use multiple server icons or the player's head as favicon, see http://git.io/oMhJlg
 #    - Possible favicon sources: Files, Folders, URLs, Heads, Helms, Encoded
-# 
+#
 #  More features are explained in the Wiki: http://git.io/slp-config
-# 
+#
 # Usage:
 #  - Add multiple entries for random messages.
 #  - Save the file with valid UTF-8 encoding for special characters.
@@ -35,29 +35,29 @@
 Default:
   Description:
   - |-
-    &aA Minecraft Server.
-    &7Now with [&a&lPvP&7], [&a&lMinigames&7], and much more!
+    &aThe Woods
+    &eEat your tortilla chips &aSideways
   - |-
-    &aA Minecraft Server.
-    &eWe have updated our server to &lMinecraft 1.8&e!
+    &aThe Woods
+    &eServer is updated to &lMinecraft 1.14.2&e!
   Players:
     Hover:
     - |-
-      &aWelcome to &lA Minecraft Server&a!
-      &aCurrently &e&l%online% &aplayers are playing on our server!
+      &aWelcome to &lThe Woods&a!
+      &aCurrently &e&l%online% &aplayers are playing!
 Personalized:
   Description:
   - |-
-    &aA Minecraft Network. &7|  &eHello, &l%player%!
-    &7Now with [&a&lPvP&7], [&a&lMinigames&7], and much more!
+    &aHello, &l%player%!
+    &eEat your tortilla chips &aSideways
   - |-
-    &aA Minecraft Network. &7|  &eHello, &l%player%!
-    &eWe have updated our server to &lMinecraft 1.8&e!
+    &7Hello, &l%player%!
+    &eServer is updated to &lMinecraft 1.14.2&e!
   Players:
     Hover:
     - |-
-      &aWelcome back, &l%player%&a!
-      &aCurrently &e&l%online% &aplayers are playing on our server!
+      &a&l%random_player%&e is waiting for you!
+      &aCurrently &e&l%online% &aplayers are playing!
 
 # Stats: Enable/disable sending plugin statistics.
 # PlayerTracking: Enable/disable tracking of player names to their IP-Addresses.
@@ -90,4 +90,3 @@ Favicon:
   Timeout: 10s
   RecursiveFolderSearch: false
   ResizeStrategy: SCALE
-
