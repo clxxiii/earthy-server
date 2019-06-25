@@ -35,7 +35,7 @@
 Default:
   Description:
   - |-
-    &aThe Woods
+    &4Communist Utopia
     &eEat your tortilla chips &aSideways
   - |-
     &aThe Woods
@@ -43,13 +43,13 @@ Default:
   Players:
     Hover:
     - |-
-      &aWelcome to &lThe Woods&a!
+      &aWelcome to &4&lCommunist Utopia&a!
       &aCurrently &e&l%online% &aplayers are playing!
 Personalized:
   Description:
   - |-
     &aHello, &l%player%!
-    &eEat your tortilla chips &aSideways
+    &eThank &aEarthyelevatorfan &e for keeping the server running!
   - |-
     &7Hello, &l%player%!
     &eServer is updated to &lMinecraft 1.14.2&e!

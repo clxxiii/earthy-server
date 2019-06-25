@@ -54,7 +54,7 @@ InfoBoard:
     ShowTime: 10
     global:
       default:
-        Title: '&e&lCLXXIII Craft'
+        Title: '&4&lCommunist Utopia'
         Rows:
         - '&r&6&l⤚⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⤙'
         - ' '
