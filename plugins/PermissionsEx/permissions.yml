@@ -3,6 +3,10 @@ groups:
     options:
       default: true
     permissions:
+    - essentials.back.into.Survival
+    - essentials.tpdeny
+    - guishop.sell
+    - guishop.use
     - InfoBoard.Toggle
     - essentials.seen
     - essentials.keepxp
@@ -20,7 +24,6 @@ groups:
     - essentials.balance
     - essentials.worth
     - essentials.pay
-    - essentials.sell
     - essentials.signs.use.balance
     - essentials.signs.use.buy
     - essentials.signs.use.disposal
@@ -73,15 +76,16 @@ users:
       prefix: '&7&l[&4&lBad Colonist&7&l]&r '
   3e2c4d68-caf6-48da-8297-17418ce69985:
     options:
-      prefix: '&7[&6&lD&b&kD&6&lO&b&kO&6&lO&b&kO&6&lF&b&kF&6&lE&b&kE&6&lN&b&kN&6&lS&b&kS&6&lH&b&kH&6&lM&b&kM&6&lI&b&kI&6&lR&b&kR&6&lT&b&kT&6&lZ&7]
-        &r'
+      prefix: '&f[&bDiscord&f] '
       name: clxxiii
     permissions:
+    - -discordsrv.silentquit
+    - -discordsrv.silentjoin
+    - -essentials.sleepingignored
     - '*'
   b302088d-aeff-42bd-a596-0b2eaf21e59b:
     options:
-      prefix: '&7[&6&lG&b&kG&6&lL&b&kL&6&lE&b&kE&6&lE&b&kE&6&lB&b&kB&6&lL&b&kL&6&lE&b&kE&6&lS&b&kS&6&lH&b&kH&6&lC&b&kC&6&lH&b&kH&6&lN&b&kN&6&lO&b&kO&6&lB&7]
-        &r'
+      prefix: ''
       name: CreeperZapp
   b3d4aa06-9d9b-480d-a690-1c9ec2118474:
     options:
@@ -110,7 +114,7 @@ users:
   ea3c6756-a521-49eb-81a8-ad1868e56d52:
     options:
       prefix: '&7[&6&lS&b&kS&6&lQ&b&kQ&6&lU&b&kU&6&lS&b&kS&6&lH&b&kH&6&lY&7] &r'
-      name: TornadoHead22
+      name: Brunion
   d95e25b9-de57-4ac2-ae20-d0e7db6bf643:
     options:
       prefix: '&7[&6&lW &b&kW &6&lI &b&kI &6&lN &b&kN &6&lK&7] &r'

@@ -1,0 +1,20 @@
+Enable: True
+
+#Message when player is not white listed
+#/n for line break
+Kick_Message: '&aYou /n are /n not /n whitelisted!'
+
+#No permission message
+No_Permission: '&aSorry you do not have permission to do this!'
+
+#Message in server when white list is enabled
+BroadCast_Message: '&aWhite list now enabled!'
+
+#Allowed Players
+Allowed_Players:
+  starrycave
+  clxxiii
+  CreeperZapp
+  Earthythegamer
+  Brunion
+  

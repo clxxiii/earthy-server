@@ -14,8 +14,8 @@ chat:
   radius: 0
 command-costs: ~
 currency-symbol: $
-custom-join-message: "&a&k!!!!!&r&b&lWelcome, &r&c{USERNAME}&b&l to Clx-Craft!&a&k!!!!!&r"
-custom-quit-message: "&a&k!!!!!&r&b&c{USERNAME}&b&l just left Clx-Craft!&a&k!!!!!"
+custom-join-message: "&a&k!!!!!&r&b&lWelcome, &r&c{USERNAME}&b&l to &4&lCommunist Utopia&b&l!&a&k!!!!!&r"
+custom-quit-message: "&a&k!!!!!&r&b&c{USERNAME}&b&l just left &4&lCommunist Utopia&b&l!&a&k!!!!!"
 death-messages: true
 debug: false
 default-stack-size: -1
