@@ -41,10 +41,10 @@ groups:
     - essentials.signs.use.trade
     - essentials.signs.use.warp
     - essentials.signs.use.weather
-    - essentials.signs.create.buy
-    - essentials.signs.create.sell
     - essentials.signs.create.balance
     - essentials.signs.create.trade
+    - essentials.signs.break.buy
+    - essentials.signs.break.sell
     - essentials.balancetop
     - essentials.chat.color
     - essentials.chat.format
